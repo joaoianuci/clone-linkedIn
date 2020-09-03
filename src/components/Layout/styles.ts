@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div`
   width: 100%;
@@ -19,7 +19,6 @@ export const Container = styled.div`
     > span {
       margin-top: 52px;
       padding: 8px 0;
-
     }
   }
 
@@ -37,7 +36,7 @@ export const Container = styled.div`
     }
 
     .middle-column {
-        margin: 0 25px 16px;
+      margin: 0 25px 16px;
     }
   }
 `;
