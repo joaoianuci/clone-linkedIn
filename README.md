@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  A linkedIn clone with shimmer effect made by instructions of @guilhermerodz, @Rocketseat content creator.
+  A linkedIn clone with shimmer effect made by instructions of [Guilherme Rodz](https://github.com/guilhermerodz), [Rocketseat](https://github.com/Rocketseat) content creator.
 </h4>
 <p align="center">
     
@@ -35,7 +35,7 @@
 
 ## :bulb: Technologies
 
-This project was developed to graduation in IFSP with the following technologies:
+This project was developed with [Rocketseat](https://github.com/Rocketseat) example with the following technologies:
 -   [React Icons](https://www.npmjs.com/package/react-icons)
 -   [Storybook](https://www.npmjs.com/package/storybook)
 -   [React](https://www.npmjs.com/package/react)
