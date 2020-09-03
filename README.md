@@ -35,6 +35,8 @@
 
 ## :bulb: Technologies
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/add306b4609b4ef4b30b111f8a44308a)](https://app.codacy.com/manual/joaoianuci/clone-linkedIn?utm_source=github.com&utm_medium=referral&utm_content=joaoianuci/clone-linkedIn&utm_campaign=Badge_Grade_Dashboard)
+
 This project was developed with [Rocketseat](https://github.com/Rocketseat) example with the following technologies:
 -   [React Icons](https://www.npmjs.com/package/react-icons)
 -   [Storybook](https://www.npmjs.com/package/storybook)
