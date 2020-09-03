@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export default styled.div`
   background-image: linear-gradient(
@@ -19,11 +19,6 @@ export default styled.div`
   }
 
   &.white {
-    background-image: linear-gradient(
-      -90deg,
-      #fff 0%,
-      #e7edf1 50%,
-      #fff 100%
-    );
+    background-image: linear-gradient(-90deg, #fff 0%, #e7edf1 50%, #fff 100%);
   }
 `;
