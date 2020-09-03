@@ -30,7 +30,8 @@
 </p>
 <p align="center">
   <a href="#bulb-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://cloneshimmer-linkedin.netlify.app/">Test here</a>
 </p>
 
 ## :bulb: Technologies
