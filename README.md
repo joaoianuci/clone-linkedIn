@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  A linkedIn clone with shimmer effect made by instructions of [Guilherme Rodz](https://github.com/guilhermerodz), [Rocketseat](https://github.com/Rocketseat) content creator.
+  A linkedIn clone with shimmer effect made by instructions of <a href="https://github.com/guilhermerodz">Guilherme Rodz,</a> <a href="https://github.com/rocketseat">Rocketseat</a> content creator.
 </h4>
 <p align="center">
     
