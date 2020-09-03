@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+    <img alt="LinkedIn" src="https://image.flaticon.com/icons/png/256/174/174857.png" />
     <br>
     LinkedIn Clone
 </h1>
