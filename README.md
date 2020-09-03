@@ -18,9 +18,9 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaoianuci/clone-linkedIn.svg">
   </a>
   
-  <a href="https://app.codacy.com/gh/clone-linkedIn?utm_source=github.com&utm_medium=referral&utm_content=joaoianuci/clone-linkedIn&utm_campaign=Badge_Grade_Dashboard">
-   <img alt="Codacy badge" src="https://api.codacy.com/project/badge/Grade/214a062e26734d3e80931b211c9d582f">
-  </a>
+<a href="https://www.codacy.com/manual/joaoianuci/clone-linkedIn?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joaoianuci/clone-linkedIn&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/b389e147fa384805bf42144a595ec1b7"/>
+</a>
   
   <a href="https://github.com/joaoianuci/clone-linkedIn/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/joaoianuci/clone-linkedIn.svg">
